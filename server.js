@@ -11,6 +11,8 @@ const myEmitter = new Emitter();
 myEmitter.on("log", (msg, fileName) => logEvents(msg, fileName));
 const PORT = process.env.PORT || 3500;
 
+console.log("test");
+
 const serveFile = async (filePath, contentType, response) => {
   try {
     const rawData = await fsPromises.readFile(
