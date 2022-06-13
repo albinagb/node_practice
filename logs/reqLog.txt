@@ -27,3 +27,15 @@
 20220612	23:00:16	bc2fe1f7-05b8-49f1-9d43-ef43dc652745	GET	undefined	/
 20220612	23:00:16	fb1a2b2a-4641-4586-8ad8-09fbc9f3051c	GET	undefined	/css/style.css
 20220612	23:01:06	37e6e759-9570-4da0-a553-edad0bddafab	GET	undefined	/employees
+20220613	17:23:29	66057884-cc94-4bab-863d-0567fb19a697	GET	undefined	/employees
+20220613	17:25:08	56315df6-75cf-42b1-8e04-fe7aaa70d282	POST	undefined	/employees
+20220613	17:26:49	e23e08e1-16f2-4d5b-9793-5152af19f1fb	GET	undefined	/employees
+20220613	17:27:22	40b7559b-6cc7-4f17-ae84-ed2bb3019c02	POST	undefined	/employees
+20220613	17:29:28	d6ea9f1f-269f-4a45-a959-aaf1d1a09558	GET	undefined	/employees
+20220613	17:29:30	ad4378b1-f978-4ae9-8e7b-a0cc31af91c9	GET	undefined	/employees
+20220613	17:29:36	17d9db65-84cd-421a-a710-dcda83c0c33f	PUT	undefined	/employees
+20220613	17:29:43	8a9d39a1-bd5b-4996-8dc2-2df61bc7cb36	PUT	undefined	/employees
+20220613	17:29:49	cb3db3f9-45d7-48c7-ad99-ee149c69a8e2	PUT	undefined	/employees
+20220613	17:30:34	b9021458-da9b-4b94-8ab2-b7cf22ac6edf	DELETE	undefined	/employees
+20220613	17:32:09	6fa0df76-6edc-4184-81f1-824badecd698	GET	undefined	/employees/3
+20220613	17:32:14	70e35745-acaf-4c06-b105-063a114d789a	GET	undefined	/employees/4
