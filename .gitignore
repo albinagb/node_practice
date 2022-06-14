@@ -1,1 +1,3 @@
 node_modules
+# never send .env file to github, save it only 
+.env
