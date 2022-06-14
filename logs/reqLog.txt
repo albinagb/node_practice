@@ -39,3 +39,14 @@
 20220613	17:30:34	b9021458-da9b-4b94-8ab2-b7cf22ac6edf	DELETE	undefined	/employees
 20220613	17:32:09	6fa0df76-6edc-4184-81f1-824badecd698	GET	undefined	/employees/3
 20220613	17:32:14	70e35745-acaf-4c06-b105-063a114d789a	GET	undefined	/employees/4
+20220614	07:50:21	66c9d039-b932-46a9-befe-f25ef449c130	POST	undefined	/auth
+20220614	07:51:30	81fb2163-c241-4324-9251-5cd232f71bbc	POST	undefined	/auth
+20220614	07:51:37	40d1f3f8-7a73-43de-80a3-e0aee1c89faf	POST	undefined	/auth
+20220614	07:51:48	2c6a0cd2-4646-48ed-82f1-2410fe9c7786	POST	undefined	/register
+20220614	07:52:05	d2185418-0359-4d33-806f-f584586db5ce	POST	undefined	/register
+20220614	07:53:18	23aa49a4-52ec-4af8-a1d1-2a78d9b216e3	POST	undefined	/register
+20220614	07:53:30	6c62f98a-54f1-453e-bb98-aa169e5fa074	POST	undefined	/register
+20220614	08:00:53	b82689f1-8855-4b1a-8d82-4b76ab4f38bb	GET	undefined	/auth
+20220614	08:01:05	8b1386b1-fb61-4062-8c41-43e3f99123ec	GET	undefined	/auth
+20220614	08:01:48	87320ac4-8a88-4da2-93a3-8b8313265c04	POST	undefined	/auth
+20220614	08:01:58	39932f9f-1d76-4679-8174-28aede415560	POST	undefined	/auth
